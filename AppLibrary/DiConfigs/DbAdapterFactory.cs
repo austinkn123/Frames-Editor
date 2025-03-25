@@ -8,7 +8,7 @@ namespace App.Utils
     public static class DbAdapterFactory
     {
         /// <summary>
-        /// Creates and returns an instance of a type T that is configured with the provided connection string
+        /// Creates and returns an instance of a type T that is configured with the provided connectionstring
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="connectionString"></param>
