@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramesEditor.Server", "FramesEditor.Server\FramesEditor.Server.csproj", "{8B40FE64-97B4-4F1D-92B1-7AD3DE26ECC8}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "frameseditor.client", "frameseditor.client\frameseditor.client.esproj", "{D13EEA65-1370-4367-AC1C-BB2AE390D192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B40FE64-97B4-4F1D-92B1-7AD3DE26ECC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B40FE64-97B4-4F1D-92B1-7AD3DE26ECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B40FE64-97B4-4F1D-92B1-7AD3DE26ECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B40FE64-97B4-4F1D-92B1-7AD3DE26ECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13EEA65-1370-4367-AC1C-BB2AE390D192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13EEA65-1370-4367-AC1C-BB2AE390D192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13EEA65-1370-4367-AC1C-BB2AE390D192}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D13EEA65-1370-4367-AC1C-BB2AE390D192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13EEA65-1370-4367-AC1C-BB2AE390D192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13EEA65-1370-4367-AC1C-BB2AE390D192}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
